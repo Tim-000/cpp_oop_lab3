@@ -1,1 +1,0 @@
-# cpp_oop_lab3
